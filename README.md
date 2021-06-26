@@ -16,8 +16,6 @@ Ubuntu in your termux application without a ` rooted ` device
 
 * ``` bash install.sh ```
 
-* ``` bash finish ```
-
 * ``` bash start ```
 
 
