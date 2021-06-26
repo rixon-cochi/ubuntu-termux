@@ -5,7 +5,7 @@
 clear
 echo ""
 xdg-open https://youtube.com/c/HYDRAGAMING4U
-sleep 20
+sleep 12
 clear
 
 apt update -y
@@ -15,6 +15,3 @@ apt install wget -y
 apt install proot -y
 clear
 sleep 3
-bash logo.sh
-bash ubuntu.sh
-
