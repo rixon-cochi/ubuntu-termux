@@ -14,11 +14,11 @@ Ubuntu in your termux application without a ` rooted ` device
 
 * ``` cd ubuntu-termux ```
 
-* ``` bash run.sh ```
+* ``` bash install.sh ```
 
 * ``` bash finish ```
 
-* ``` ./startubuntu.sh ```
+* ``` bash start ```
 
 
 # ABOUT ME
