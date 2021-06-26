@@ -7,6 +7,6 @@ chmod +x ubuntu.sh
 bash logo.sh
 ./ubuntu.sh -y
 clear
-echo " type ./startubuntu.sh "
+echo " type  bash start "
 sleep 4
 
