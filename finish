@@ -3,10 +3,8 @@
 #new code land 
 #2021SA26238AM
 clear
-cd
 cd ubuntu-termux
 chmod +x ubuntu.sh
-ls
 ./ubuntu.sh -y
 clear
 echo " type ./startubuntu.sh "
