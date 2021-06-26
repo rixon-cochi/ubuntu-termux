@@ -3,7 +3,6 @@
 #new code land 
 #2021SA26238AM
 clear
-cd ubuntu-termux
 chmod +x ubuntu.sh
 bash logo.sh
 ./ubuntu.sh -y
