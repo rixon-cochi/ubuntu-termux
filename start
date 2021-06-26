@@ -1,0 +1,9 @@
+#!/bin/bash
+#tech cochi 
+#clear
+rm -rf install.sh
+rm -rf finish
+rm -rf logo.sh
+rm -rf IMG
+clear
+./startubuntu.sh
