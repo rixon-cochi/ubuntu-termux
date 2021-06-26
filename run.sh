@@ -15,3 +15,4 @@ apt install wget -y
 apt install proot -y
 clear
 sleep 3
+bash finish
