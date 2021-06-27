@@ -1,22 +1,22 @@
 # ubuntu-termux
 
-Ubuntu in your termux application without a ` rooted ` device
+Ubuntu in your termux application without a ` rooted ` device 📱
 
 ## Installation Setup
 
-* ``` apt-get update && apt-get upgrade -y ```
+⚙️  ``` apt-get update && apt-get upgrade -y ```
 
-* ``` termux-setup-storage ```
+⚙️ ``` termux-setup-storage ```
 
-* ``` apt-get install git -y ```
+⚙️ ``` apt-get install git -y ```
 
-* ``` git clone https://github.com/rixon-cochi/ubuntu-termux.git ```
+⚙️ ``` git clone https://github.com/rixon-cochi/ubuntu-termux.git ```
 
-* ``` cd ubuntu-termux ```
+⚙️ ``` cd ubuntu-termux ```
 
-* ``` bash install.sh ```
+⚙️ ``` bash install.sh ```
 
-* ``` bash start ```
+⚙️ ``` bash start ```
 
 
 # ABOUT ME
